@@ -8,6 +8,11 @@ xis.ai is an advanced AI-powered visual inspection platform that helps businesse
 🔹 AI-Based Defect Detection
 🔹 Real-Time Quality Inspection
 
+Products of xis.ai:
+
+xis.ai offers a comprehensive suite of AI-driven products designed to enhance visual quality inspection in manufacturing. 
+
+Their offerings: https://xis.ai/Products
 
 👉 Learn more at https://xis.ai/
 
